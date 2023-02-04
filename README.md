@@ -3,7 +3,7 @@ Hi, I’m @HeadcrabFM
 - [AVE RAVE](https://t.me/AveRaveSpace) art community resident
 - Interests: Python, Linux, DevOps, forensic, maths (higher math, probability theory)
 
-- In search for DevOps/Junior Python training
+- In search for QA/DevOps/Junior Python training
 - Contacts: m.l.swgr@gmail.com , [t.me/headcrabfm](https://t.me/headcrabfm)
 
 <!---
