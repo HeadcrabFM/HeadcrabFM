@@ -1,6 +1,6 @@
 Hi, I’m @HeadcrabFM
 - Student of SPbSMTU, Saint-Petersburg, Russia (2020-2024)
-- [AVE RAVE](https://t.me/AveRaveSpace) art community technichion resident
+- [AVE RAVE](https://t.me/AveRaveSpace) art community technician resident
 - Interests: Python, Linux, DevOps, forensic, in process of studying maths (higher math, probability theory)
 
 - In search for QA/DevOps/Junior Python training
