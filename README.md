@@ -4,7 +4,7 @@ Hi, I’m @HeadcrabFM
 - [AVE RAVE](https://t.me/AveRaveSpace) art community technician resident
 - Interests: Python, Linux, forensic, quantum cryptography 
 
-- Contacts: m.l.swgr@gmail.com , [t.me/headcrabfm](https://t.me/headcrabfm)
+- Contacts: gs@cosyma.pro
 
 <!---
 HeadcrabFM/HeadcrabFM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
