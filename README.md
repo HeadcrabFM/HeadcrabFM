@@ -1,9 +1,9 @@
 Hi, I’m @HeadcrabFM
 - Student of SPbSMTU, Saint-Petersburg, Russia (2020-2024)
 - [AVE RAVE](https://t.me/AveRaveSpace) art community technician resident
-- Interests: Python, Linux, DevOps, forensic, in process of studying maths (higher math, probability theory)
+- Interests: Python, Linux, forensic, quantum cryptography 
 
-- In search for QA/DevOps/Junior Python training
+- Software engineer in [Cosyma](https://en.cosyma.pro)
 - Contacts: m.l.swgr@gmail.com , [t.me/headcrabfm](https://t.me/headcrabfm)
 
 <!---
