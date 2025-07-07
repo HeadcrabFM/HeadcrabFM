@@ -1,4 +1,4 @@
-Hi, I’m @HeadcrabFM
+Hi, I’m @HeadcrabFM (Gleb Sokolov)
 - Software and network engineer at [Cosyma](https://en.cosyma.pro)
 - Student of [SPbSMTU](https://www.smtu.ru) [(en)](https://en.smtu.ru), Saint-Petersburg, Russia (2020-2024)
 - [AVE RAVE](https://t.me/AveRaveSpace) art community technician
